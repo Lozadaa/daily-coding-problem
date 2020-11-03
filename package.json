@@ -1,0 +1,19 @@
+{
+  "name": "daily-coding-problem",
+  "version": "1.0.0",
+  "description": "All of exercises of the book Daily Coding Problems resolved by me. (Lozadaa)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lozadaa/daily-coding-problem.git"
+  },
+  "author": "Richard Lozada (rlozada808@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lozadaa/daily-coding-problem/issues"
+  },
+  "homepage": "https://github.com/Lozadaa/daily-coding-problem#readme"
+}
