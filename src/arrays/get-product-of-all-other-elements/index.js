@@ -1,4 +1,4 @@
-function getProductOfAllOtherElements(arr) {
+function index(arr) {
     let result = [];
     for(let i = 0; i < arr.length; i++){
         let numbersToMultiply = [];
@@ -21,4 +21,4 @@ function multiplyElementsOfArr(numbersToMultiply) {
     return result;
 }
 
-console.log(getProductOfAllOtherElements([1,2,3,4,5]));
+console.log(index([1,2,3,4,5]));
